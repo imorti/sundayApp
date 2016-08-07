@@ -5,4 +5,4 @@ This app uses the Revel golang web framework. It's very simple.
 Much props to Justin Beckwith
 http://jbeckwith.com/2015/05/08/docker-revel-appengine/
 
-I dialed it back a bit for this tutorial 
+I dialed it back a bit for this tutorial so no AppEngine or GCE but you get the idea. 
